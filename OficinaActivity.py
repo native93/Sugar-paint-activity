@@ -128,7 +128,6 @@ class OficinaActivity(activity.Activity):
 
         toolbar_box = DrawToolbarBox(self)
 
-
         toolbar_box.toolbar.insert(self.board.box_button, -1)
 
         toolbar_box.toolbar.insert(self.board.button, -1)
