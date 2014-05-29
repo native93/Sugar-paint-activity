@@ -118,6 +118,8 @@ class OficinaActivity(activity.Activity):
 
         self.board = BulletinBoard(self)
 
+        self.fixed.put(self.board.fixed, 0, 0)
+
         self._sw = Gtk.ScrolledWindow()
         self._sw.set_kinetic_scrolling(False)
         self._sw.show()
