@@ -132,6 +132,7 @@ class OficinaActivity(activity.Activity):
 
         toolbar_box.toolbar.insert(self.board.box_button, -1)
 
+        toolbar_box.toolbar.insert(self.board.share_button, -1)
         toolbar_box.toolbar.insert(self.board.button, -1)
         self.board.button.show()
         toolbar_box.show_all()
