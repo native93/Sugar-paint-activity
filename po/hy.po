@@ -1,0 +1,241 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2013-06-19 19:58+0200\n"
+"Last-Translator: anushnur <anush.mkrtchyan@ca1492.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Paint"
+msgstr "Նկարել"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Picasso? Van Gogh? You can be any of them! Just let the artist inside you "
+"free. Transform images in your mind to beautiful paintings."
+msgstr ""
+"Պիկա՞սո, Վան Գո՞գ. Կարող ես լինել նրանցից մեկը: Պարզապես ազատիր քո ներսում "
+"գտնվող արվեստագերին: Վերածիր քո մտքում եղած պատկերները գեղեցիկ նկարների:"
+
+#: fontcombobox.py:89
+msgid "Select font"
+msgstr "Ընտրել տառատեսակը"
+
+#: toolbox.py:118
+msgid "Edit"
+msgstr "Խմբագրել"
+
+#: toolbox.py:122
+msgid "Shapes properties"
+msgstr "Ձևերի հատկանիշները"
+
+#: toolbox.py:133
+msgid "Shapes"
+msgstr "Ձևեր"
+
+#: toolbox.py:143
+msgid "Fonts"
+msgstr "Տառատեսակները"
+
+#: toolbox.py:149
+msgid "Image"
+msgstr "Պատկեր"
+
+#: toolbox.py:188
+msgid "Undo"
+msgstr "Ետարկել"
+
+#: toolbox.py:189
+msgid "Redo"
+msgstr "Կրկին կատարել"
+
+#: toolbox.py:190
+msgid "Copy"
+msgstr "Պատճենել"
+
+#: toolbox.py:191
+msgid "Paste"
+msgstr "Փակցնել"
+
+#: toolbox.py:199
+msgid "Clear"
+msgstr "Մաքրել"
+
+#: toolbox.py:298 widgets.py:322
+msgid "Brush properties"
+msgstr "Վրձնի հատկանիշները"
+
+#: toolbox.py:307 toolbox.py:311
+msgid "Brush"
+msgstr "Վրձին"
+
+#: toolbox.py:314
+msgid "Eraser"
+msgstr "Ռետին"
+
+#: toolbox.py:317
+msgid "Bucket"
+msgstr "Դույլ"
+
+# Սելեկտոր
+#: toolbox.py:320
+msgid "Picker"
+msgstr "Ընտրիչ"
+
+#: toolbox.py:323
+msgid "Stamp"
+msgstr "Դրոշմ"
+
+#: toolbox.py:336
+msgid "Select Area"
+msgstr "Ընտրել տարածքը"
+
+#: toolbox.py:415
+msgid "Fill"
+msgstr "Լիցք"
+
+#: toolbox.py:421 widgets.py:286
+msgid "Keep aspect"
+msgstr "Պահել արտաքին տեսքը"
+
+#: toolbox.py:438
+msgid "Sides: "
+msgstr "Կողմեր. "
+
+#: toolbox.py:511
+msgid "Ellipse"
+msgstr "Էլիպս"
+
+#: toolbox.py:514
+msgid "Rectangle"
+msgstr "Ուղղանկյուն"
+
+#: toolbox.py:517
+msgid "Line"
+msgstr "Գիծ"
+
+#: toolbox.py:520
+msgid "Free form"
+msgstr "Ազատ գիծ"
+
+#: toolbox.py:523
+msgid "Polygon"
+msgstr "Բազմանկյուն"
+
+#: toolbox.py:526
+msgid "Heart"
+msgstr "Սիրտ"
+
+#: toolbox.py:529
+msgid "Parallelogram"
+msgstr "Զուգահեռագիծ"
+
+#: toolbox.py:532
+msgid "Arrow"
+msgstr "Սլաք"
+
+#: toolbox.py:535
+msgid "Star"
+msgstr "Աստղ"
+
+#: toolbox.py:538
+msgid "Trapezoid"
+msgstr "Սեղան"
+
+#: toolbox.py:541
+msgid "Triangle"
+msgstr "Եռանկյուն"
+
+#: toolbox.py:574
+msgid "Type"
+msgstr "Տպել"
+
+#: toolbox.py:665
+msgid "Insert Image"
+msgstr "Զետեղել պատկեր"
+
+#: toolbox.py:678
+msgid "Rotate Left"
+msgstr "Շրջել Ձախ"
+
+#: toolbox.py:682
+msgid "Rotate Right"
+msgstr "Շրջել Աջ"
+
+#: toolbox.py:687
+msgid "Horizontal Mirror"
+msgstr "Հորիզոնական հայելի"
+
+#: toolbox.py:692
+msgid "Vertical Mirror"
+msgstr "Ուղղահայաց հայելի"
+
+#: toolbox.py:700
+msgid "Grayscale"
+msgstr "Գորշասանդղակ"
+
+#: toolbox.py:703
+msgid "Rainbow"
+msgstr "Ծիածան"
+
+#: toolbox.py:708
+msgid "Invert Colors"
+msgstr "Հակադարձել Գույները"
+
+#: widgets.py:17
+msgid "Size: "
+msgstr "Չափս. "
+
+#: widgets.py:17
+msgid "Opacity: "
+msgstr "Անթափանցիկություն. "
+
+#: widgets.py:17
+msgid "Circle"
+msgstr "Շրջանագիծ"
+
+#: widgets.py:17
+msgid "Square"
+msgstr "Քառակուսի"
+
+#: widgets.py:31
+msgid "Choose brush properties"
+msgstr "Ընտրեք վրձնի հատկանիշները"
+
+#: widgets.py:245
+msgid "Size"
+msgstr "Չափս"
+
+#: widgets.py:259
+msgid "Opacity"
+msgstr "Անթափանցիկություն"
+
+#: widgets.py:280
+msgid "Shape"
+msgstr "Ձև"
+
+#: widgets.py:317
+msgid "Stamp properties"
+msgstr "Դրոշմի հատկանիշները"
+
+#~ msgid "Height"
+#~ msgstr "Բարձրություն"
+
+#~ msgid "Width"
+#~ msgstr "Լայնք"
+
+#~ msgid "Choose image"
+#~ msgstr "Ընտրել պատկերը"
