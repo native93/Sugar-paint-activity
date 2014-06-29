@@ -69,7 +69,10 @@ import json
 
 from sugar3.activity import activity
 from sugar3.graphics import style
+<<<<<<< HEAD
 from sugar3.activity.widgets import BulletinBoard
+=======
+>>>>>>> 0a1e9aa63a0fb10e608f7efde39eb24b7696648e
 
 from Area import Area
 from toolbox import DrawToolbarBox
@@ -116,10 +119,13 @@ class OficinaActivity(activity.Activity):
         self.area.show()
         self.fixed.put(self.area, 0, 0)
 
+<<<<<<< HEAD
         self.board = BulletinBoard(self)
 
         self.fixed.put(self.board.fixed, 0, 0)
 
+=======
+>>>>>>> 0a1e9aa63a0fb10e608f7efde39eb24b7696648e
         self._sw = Gtk.ScrolledWindow()
         self._sw.set_kinetic_scrolling(False)
         self._sw.show()
@@ -130,6 +136,7 @@ class OficinaActivity(activity.Activity):
 
         toolbar_box = DrawToolbarBox(self)
 
+<<<<<<< HEAD
         toolbar_box.toolbar.insert(self.board.box_button, -1)
 
         toolbar_box.toolbar.insert(self.board.share_button, -1)
@@ -137,6 +144,9 @@ class OficinaActivity(activity.Activity):
         self.board.button.show()
         toolbar_box.show_all()
         self.board.box_button.hide()
+=======
+        toolbar_box.show_all()
+>>>>>>> 0a1e9aa63a0fb10e608f7efde39eb24b7696648e
 
         self.connect("key_press_event", self.key_press)
 
