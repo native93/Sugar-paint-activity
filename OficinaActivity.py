@@ -130,14 +130,14 @@ class OficinaActivity(activity.Activity):
 
         toolbar_box = DrawToolbarBox(self)
 
-        toolbar_box.toolbar.insert(self.board.box_button, -1)
-
-        toolbar_box.toolbar.insert(self.board.share_button, -1)
         toolbar_box.toolbar.insert(self.board.button, -1)
+
+        #toolbar_box.toolbar.insert(self.board.share_button, -1)
+        #toolbar_box.toolbar.insert(self.board.button, -1)
         self.board.button.show()
         toolbar_box.show_all()
-        self.board.box_button.hide()
-        toolbar_box.show_all()
+        #self.board.box_button.hide()
+        #self.board.share_button.hide()
 
         self.connect("key_press_event", self.key_press)
 
